@@ -2,7 +2,7 @@
 title: "Chapter 18 first R markdown on github"
 author: "Ben Jepson"
 date: '2023-02-24'
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
